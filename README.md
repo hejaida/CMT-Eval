@@ -47,7 +47,7 @@ Contains the user personas, user queries and corresponding speech acts.
  - [统筹能力]: Information Synthesis score 
  - [适应能力]: Adaptability score
  - [本轮评分]: Turn-Level score
- - [整体评分]: Dialogue-level Score
+ - [整体评分]: Dialogue-level score
 
 ### Eval Data
 
